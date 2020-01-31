@@ -11,11 +11,11 @@ at the moment there aren't any available resource online
 ## DevOps practices
 |Link|Title|Speaker|
 |-----|-----|-----|
-|https://aka.ms/OPS10 |Building the foundation for modern ops: Monitoring   |   |
-|https://aka.ms/OPS20 |Responding to incidents   |   |
-|https://aka.ms/OPS30 |  Learning from failure  |   |
-|https://aka.ms/OPS40 | Deployment practices for greater reliability  |   |
-|https://aka.ms/OPS50 | Preparing for growth: Capacity planning and scaling  |   |
+|https://aka.ms/OPS10 | Building the foundation for modern ops: Monitoring | Gabriel Nepomuceno |
+|https://aka.ms/OPS20 | Responding to incidents  | Jeremiah Dooley |
+|https://aka.ms/OPS30 | Learning from failure | Jeremiah Dooley |
+|https://aka.ms/OPS40 | Deployment practices for greater reliability  | Gabriel Nepomuceno |
+|https://aka.ms/OPS50 | Preparing for growth: Capacity planning and scaling  | Jeremiah Dooley |
 
 
 
@@ -35,22 +35,22 @@ at the moment there aren't any available resource online
 ## Windows Server 2019
 |Link|Title|Speaker|
 |-----|-----|-----|
-| https://aka.ms/MSI10 | Migrating to Windows Server 2019  |
-| https://aka.ms/MSI20 | Hybrid management technologies    |
-| https://aka.ms/MSI30 | Migrating IaaS workloads to Azure |
+| https://aka.ms/MSI10 | Migrating to Windows Server 2019  | Thomas Maurer |
+| https://aka.ms/MSI20 | Hybrid management technologies    | Thomas Maurer |
+| https://aka.ms/MSI30 | Migrating IaaS workloads to Azure | Thomas Maurer |
 	
 ## Application development
 |Link|Title|Speaker|
 |-----|-----|-----|
-| https://aka.ms/APPS30 | Modernizing your application with containers                              |
-| https://aka.ms/APPS40 | Consolidating infrastructure with Azure Kubernetes Service                |
-| https://aka.ms/APPS50 | Taking application to next level with monitoring, performance and scaling |
-| https://aka.ms/azure-monitor-ignite | Azure monitor overview										|
+| https://aka.ms/APPS30 | Modernizing your application with containers                              | Jessica Deen |
+| https://aka.ms/APPS40 | Consolidating infrastructure with Azure Kubernetes Service                | Jessica Deen |
+| https://aka.ms/APPS50 | Taking application to next level with monitoring, performance and scaling | Christopher Maneu |
+| https://aka.ms/azure-monitor-ignite | Azure monitor overview										| 
 	
 
 ## Others
 
 |Link|Title|Speaker|
 |-----|-----|-----|
-|  BRK30167 |   The art of Azure function |
-|  BRK30164, BRK30168 | API Management ( Policies, Access, Pipeline, Subscription ...) |
+|  BRK30167 |   The art of Azure function | Massimo Bonanni |
+|  BRK30164, BRK30168 | API Management ( Policies, Access, Pipeline, Subscription ...) | Giuseppe Marchi, Massimo Bonanni | 
