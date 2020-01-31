@@ -20,13 +20,37 @@ at the moment there aren't any available resource online
 
 
 ## AI and Azure Cognitive Services
-
+|Link|Title|Speaker|
+|-----|-----|-----|
+| https://aka.ms/AIML10 | Making sense of your unstructured data with AI |   Amy Boyd
+| https://aka.ms/AIML20 | Using pre-built AI to solve business challenges |   Amy Boyd
+| https://aka.ms/AIML30 | Start Building Machine Learning Models Faster than You Think |   Amy Boyd
+| https://aka.ms/AIML40 | Taking models to the next level with Azure Machine Learning best practices |   Amy Boyd
+| https://aka.ms/AIML50 | Machine learning operations: Applying DevOps to data science  |   Amy Boyd|
+| THR30030				| Developers guide to AI: A data story |   Amy Boyd|
+| BRK30163				| Applied Deel Learning: new kind of multimedia content |   Amy Boyd|
+| https://aka.ms/cs-containers | Container support|
+| BRK10074 | Azure Cognitive Services | with text analytics and Computer vision | Speaker: Andrea Saltarello|
 
 ## Windows Server 2019
-
-
+|Link|Title|Speaker|
+|-----|-----|-----|
+| https://aka.ms/MSI10 | Migrating to Windows Server 2019  |
+| https://aka.ms/MSI20 | Hybrid management technologies    |
+| https://aka.ms/MSI30 | Migrating IaaS workloads to Azure |
+	
 ## Application development
+|Link|Title|Speaker|
+|-----|-----|-----|
+| https://aka.ms/APPS30 | Modernizing your application with containers                              |
+| https://aka.ms/APPS40 | Consolidating infrastructure with Azure Kubernetes Service                |
+| https://aka.ms/APPS50 | Taking application to next level with monitoring, performance and scaling |
+| https://aka.ms/azure-monitor-ignite | Azure monitor overview										|
+	
 
+## Others
 
-##Others
-
+|Link|Title|Speaker|
+|-----|-----|-----|
+|  BRK30167 |   The art of Azure function |
+|  BRK30164, BRK30168 | API Management ( Policies, Access, Pipeline, Subscription ...) |
