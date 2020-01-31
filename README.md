@@ -22,15 +22,15 @@ at the moment there aren't any available resource online
 ## AI and Azure Cognitive Services
 |Link|Title|Speaker|
 |-----|-----|-----|
-| https://aka.ms/AIML10 | Making sense of your unstructured data with AI |   Amy Boyd
-| https://aka.ms/AIML20 | Using pre-built AI to solve business challenges |   Amy Boyd
-| https://aka.ms/AIML30 | Start Building Machine Learning Models Faster than You Think |   Amy Boyd
-| https://aka.ms/AIML40 | Taking models to the next level with Azure Machine Learning best practices |   Amy Boyd
-| https://aka.ms/AIML50 | Machine learning operations: Applying DevOps to data science  |   Amy Boyd|
-| THR30030				| Developers guide to AI: A data story |   Amy Boyd|
-| BRK30163				| Applied Deel Learning: new kind of multimedia content |   Amy Boyd|
+| https://aka.ms/AIML10 | Making sense of your unstructured data with AI | Amy Boyd
+| https://aka.ms/AIML20 | Using pre-built AI to solve business challenges | Anthony Bartolo
+| https://aka.ms/AIML30 | Start Building Machine Learning Models Faster than You Think | Cassie Breviu
+| https://aka.ms/AIML40 | Taking models to the next level with Azure Machine Learning best practices | Amy Boyd
+| https://aka.ms/AIML50 | Machine learning operations: Applying DevOps to data science  | Sandra Ahlgrimm|
+| THR30030				| Developers guide to AI: A data story | Jakob Nielsen|
+| BRK30163				| Applied Deep Learning: new kind of multimedia content | Gianni Rosa Gallina|
+| BRK10074 | Technology as a means for inclusion | Andrea Saltarello|
 | https://aka.ms/cs-containers | Container support|
-| BRK10074 | Azure Cognitive Services | with text analytics and Computer vision | Speaker: Andrea Saltarello|
 
 ## Windows Server 2019
 |Link|Title|Speaker|
